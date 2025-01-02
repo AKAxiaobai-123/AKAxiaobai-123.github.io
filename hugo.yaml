@@ -26,7 +26,7 @@ languages:
         weight: 2
         params:
             sidebar:
-                subtitle: 一切顺遂，一切宁静，平安地度过。
+                subtitle: 一切顺遂，一切宁静，平安地度过
 
 services:
     # Change it to your Disqus shortname before using
